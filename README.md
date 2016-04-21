@@ -1,2 +1,2 @@
 # VirturalKeyboard
-A small cross platform library written in c++ to virtually generate key strokes
+A OS X library written in c++ to virtually generate key strokes
